@@ -1,0 +1,15 @@
+C:\Users\Герман\Desktop\verification work\ver\Ex\bin\Debug\net6.0\Ex.exe
+C:\Users\Герман\Desktop\verification work\ver\Ex\bin\Debug\net6.0\Ex.deps.json
+C:\Users\Герман\Desktop\verification work\ver\Ex\bin\Debug\net6.0\Ex.runtimeconfig.json
+C:\Users\Герман\Desktop\verification work\ver\Ex\bin\Debug\net6.0\Ex.dll
+C:\Users\Герман\Desktop\verification work\ver\Ex\bin\Debug\net6.0\ref\Ex.dll
+C:\Users\Герман\Desktop\verification work\ver\Ex\bin\Debug\net6.0\Ex.pdb
+C:\Users\Герман\Desktop\verification work\ver\Ex\obj\Debug\net6.0\Ex.csproj.AssemblyReference.cache
+C:\Users\Герман\Desktop\verification work\ver\Ex\obj\Debug\net6.0\Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Герман\Desktop\verification work\ver\Ex\obj\Debug\net6.0\Ex.AssemblyInfoInputs.cache
+C:\Users\Герман\Desktop\verification work\ver\Ex\obj\Debug\net6.0\Ex.AssemblyInfo.cs
+C:\Users\Герман\Desktop\verification work\ver\Ex\obj\Debug\net6.0\Ex.csproj.CoreCompileInputs.cache
+C:\Users\Герман\Desktop\verification work\ver\Ex\obj\Debug\net6.0\Ex.dll
+C:\Users\Герман\Desktop\verification work\ver\Ex\obj\Debug\net6.0\ref\Ex.dll
+C:\Users\Герман\Desktop\verification work\ver\Ex\obj\Debug\net6.0\Ex.pdb
+C:\Users\Герман\Desktop\verification work\ver\Ex\obj\Debug\net6.0\Ex.genruntimeconfig.cache
