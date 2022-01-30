@@ -16,13 +16,13 @@ string[] array= new string[] {"one", "two", "three", "four", "five"};
 //       empty[j] =
 //     Console.WriteLine(empty[j]);
 //  }
-int i;
 
- for( i = 0; i<array.Length ; i++ )
+
+ for(int i = 0; i<array.Length ; i++ )
  {
      if(array[i].Length <= 3)
      {
-        Console.WriteLine(array[i]); 
+        Console.Write($" {array[i]}"); 
      }
 
  }
