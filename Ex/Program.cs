@@ -8,7 +8,7 @@ string[] empty = new string[array.Length]  ;
  {
      if(array[i].Length <= 3)  
          {
-             //Array.Resize(ref empty, empty.Length +1);
+             
            empty[j] = array[i] ;
              
               j++;
