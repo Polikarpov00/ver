@@ -1,28 +1,40 @@
 ﻿// Написать программу, которая из имеющегося массива строк формирует массив из строк, длина которых меньше либо равна 3.
-string[] array= new string[] {"one", "two", "three", "four", "five"}; 
+string[] array= new string[] {"one", "two", "three", "four", "five", "six"}; 
 
-// string[] empty = new string[5]  ; 
-
-// int i;
-// int j;
-
-//  for( i = 0; i<array.Length ; i++ )
-//  {
-//      for ( j = 0; array[i].Length <=3; j++)   Я не понимаю как заполнить пустой массив((((
-    //      {
-//          empty[j] = array[i];
-//      } 
-     
-//       empty[j] =
-//     Console.WriteLine(empty[j]);
-//  }
-
+ int j=0;
+string[] empty = new string[array.Length]  ; 
 
  for(int i = 0; i<array.Length ; i++ )
  {
-     if(array[i].Length <= 3)
-     {
-        Console.Write($" {array[i]}"); 
-     }
-
+     if(array[i].Length <= 3)  
+         {
+             //Array.Resize(ref empty, empty.Length +1);
+           empty[j] = array[i] ;
+             
+              j++;
+           Array.Resize(ref empty, j+1);
+          Console.Write($" {empty[j-1]}");
+        
+         } 
  }
+
+//                         ВАРИАНТ 2
+
+//   string[] array= new string[] {"one", "two", "three", "four", "five", "six"}; 
+
+//  int j=0;
+// string[] empty = new string[1]  ; 
+
+//  for(int i = 0; i<array.Length ; i++ )
+//  {
+//      if(array[i].Length <= 3)  
+//          {
+             
+//            empty[j] = array[i] ;
+             
+//               j++;
+//            Array.Resize(ref empty, empty.Length +1);
+//           Console.Write($" {empty[j-1]}");
+        
+//          } 
+//  }                        
